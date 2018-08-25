@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="825df2d3-3993-42fa-aa70-78ac4c4e753c" name="Kendu Finances" url="http://localhost:83">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
