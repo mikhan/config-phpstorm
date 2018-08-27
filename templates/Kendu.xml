@@ -1,0 +1,19 @@
+<templateSet group="Kendu">
+  <template name="uiCard" value="&lt;div class=&quot;ui-card padding-md&quot;&gt;&#10;&lt;/div&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="uiButton" value="&lt;button class=&quot;ui-button&quot;&#10;&#9;type=&quot;button&quot;&#10;&#9;ng-click=&quot;&quot;&gt;&#10;&#9;$SELECTION$$END$&#10;&lt;/button&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="module" value="angular.module('$moduleName$',[$moduleDependencies$]);&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="moduleName" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="moduleDependencies" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
