@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="artisan" type="PHP" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="grunt" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="original" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
-      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping pattern="asada" type="XML" />
     </extensionMap>
   </component>
