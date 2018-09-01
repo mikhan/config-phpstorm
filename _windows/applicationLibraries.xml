@@ -1,0 +1,38 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.5.0-rc.2_angular.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-1.12.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/__code.jquery.com_jquery-1.12.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="Modernizr-2.6.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Modernizr" />
+        <option name="frameworkVersion" value="2.6.2" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.modernizr.com_downloads_modernizr-2.6.2.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.modernizr.com_downloads_modernizr-2.6.2.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://www.modernizr.com/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
