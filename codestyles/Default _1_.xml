@@ -18,7 +18,7 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_ALIGN_TEXT" value="true" />
