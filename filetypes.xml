@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".sassrc" type="JSON" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="grunt" type="PLAIN_TEXT" />
