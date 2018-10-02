@@ -18,7 +18,7 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_ALIGN_TEXT" value="true" />
@@ -32,6 +32,7 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="IMPORT_USE_NODE_RESOLUTION" value="FALSE" />
   </JSCodeStyleSettings>
@@ -53,6 +54,14 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_TEXT_WRAP" value="0" />
@@ -82,6 +91,7 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -223,7 +233,6 @@
   <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
