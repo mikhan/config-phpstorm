@@ -55,6 +55,7 @@
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="DISABLE_FORMATTING" value="true" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
