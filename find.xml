@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -16,7 +14,7 @@
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.scss,*.less,*.css</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
