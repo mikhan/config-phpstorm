@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/angular" type="javaScript">
+    <library name="@types/lodash" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
