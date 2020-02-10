@@ -4,6 +4,7 @@
       <mapping pattern=".sassrc" type="JSON" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="grunt" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="original" type="PLAIN_TEXT" />
