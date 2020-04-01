@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="latte" type="HTML" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".sassrc" type="JSON" />
+      <mapping pattern=".prettierignore" type="Native" />
       <mapping pattern="artisan" type="PHP" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="grunt" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="original" type="PLAIN_TEXT" />
+      <mapping ext="prettierignore" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
