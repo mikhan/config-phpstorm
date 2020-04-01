@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="latte" type="HTML" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".sassrc" type="JSON" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
