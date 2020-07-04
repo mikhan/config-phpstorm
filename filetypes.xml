@@ -10,6 +10,7 @@
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="original" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping ext="prettierignore" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
